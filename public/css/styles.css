@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333333;
+    color: darkorange;
+}
+
+#form{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 70%;
+}
+#input{
+    color: white;
+    font-size: 22px;
+
+}
